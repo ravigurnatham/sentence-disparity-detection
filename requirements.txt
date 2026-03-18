@@ -1,0 +1,9 @@
+pandas
+pyarrow
+jupyterlab
+requests
+beautifulsoup4
+scikit-learn
+matplotlib
+seaborn
+tqdm
