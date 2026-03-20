@@ -14,7 +14,7 @@ The primary objective of this **National Interest Waiver (EB-2 NIW) Endeavor** i
 ## 📂 Repository Structure
 
 ```text
-antigravity-niw/
+sentence-disparity-detection/
 │
 ├── data/
 │   ├── raw/                 # Immutably stored USSC ZIP/CSV/SAS datasets
