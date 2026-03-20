@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>⚖️ EB-2 NIW: Predictive Justice & Sentencing Disparity Prototype</h1>
+  <h1> EB-2 NIW: Predictive Justice & Sentencing Disparity Prototype</h1>
   <p><strong>A Real-Time Machine Learning Pipeline to Detect and Mitigate Systemic Bias in the U.S. Federal Judiciary</strong></p>
-  <p><em>Principal Investigator: Ravi Gurnatham</em></p>
+  <p><em>Work of: Ravi Gurnatham</em></p>
 </div>
 
 ---
@@ -55,7 +55,7 @@ As part of this prototype, we have thoroughly documented the theoretical and mat
 
 ---
 
-## 🔬 Research & Implementation Phases
+##  Research & Implementation Phases
 
 ### Phase 1: Data Ingestion & Transformation 
 To train an accurate model, we ingested over 60,000 individual federal offender records from the FY2024 dataset.
@@ -80,7 +80,7 @@ Our Phase 2 model mathematically proved the necessity of this NIW endeavor:
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 **1. Clone and Setup Environment**
 ```bash
