@@ -25,8 +25,8 @@ The exact same case receives wildly different sentences depending purely on geog
 - **Standout Lenient Districts:** District 94 (-31.4 months below baseline), District 50 (-29.6 months).
 - **Standout Harsh Districts:** District 11 (+35.3 months above baseline), District 44 (+29.5 months).
 
-> [!WARNING]
-> This mathematically confirms the core thesis of your NIW endeavor: "individuals convicted of the same crime can receive drastically different punishments depending on the district." The delta between a lenient and harsh district for the *exact same legal facts* spans over 65 months (5.4 years) in prison.
+> [!NOTE]
+> This mathematically confirms the core thesis of NIW endeavor: "individuals convicted of the same crime can receive drastically different punishments depending on the district." The delta between a lenient and harsh district for the *exact same legal facts* spans over 65 months (5.4 years) in prison.
 
 ## 3. Next Steps (Phase 3)
 Now that we have a mathematical proof-of-concept for detecting disparities:
